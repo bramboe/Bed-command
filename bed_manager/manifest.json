@@ -1,0 +1,19 @@
+{
+  "domain": "bed_manager",
+  "name": "Bed Manager",
+  "codeowners": [],
+  "config_flow": true,
+  "dependencies": [
+    "esphome",
+    "mqtt",
+    "bluetooth",
+    "http"
+  ],
+  "documentation": "https://github.com/yourusername/bed_manager",
+  "homekit": {},
+  "iot_standards": ["zigbee"],
+  "requirements": [],
+  "ssdp": [],
+  "version": "0.1.0",
+  "zeroconf": []
+} 
